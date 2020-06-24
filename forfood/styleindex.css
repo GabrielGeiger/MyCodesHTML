@@ -1,0 +1,45 @@
+body{
+  margin: 0;
+	padding: 0;
+	background: #73252F url(imagesidx/bg.png) repeat;
+	font-family: 'Abel', sans-serif;
+	font-size: 14px;
+	color: #383838;
+}
+#footer {
+	height: 100px;
+	background: rgba(0,0,0,.3);
+	text-align: center;
+
+}
+
+#footer p {
+	margin: 0;
+	padding-top: 20px;
+	line-height: normal;
+	text-align: center;
+	color: white;
+
+}
+
+#footer a {
+	color: white;
+
+}
+.logo{
+  text-align: center;
+  color: white;
+
+}
+.cabe{
+  text-align: center;
+  color: white;
+  font-family: arial;
+
+}
+.proximo{
+  text-align: center;
+  color: white;
+
+
+}
